@@ -9,5 +9,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "standard": {
+    "plugins": "js"
+  },
+  "devDependencies": {
+    "semistandard": "^17.0.0"
+  }
 }
